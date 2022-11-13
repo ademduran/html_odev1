@@ -1,8 +1,6 @@
 # html_odev1
 Patika Html Ödev 1
 
-https://aduran.com.tr
-
 <!DOCTYPE html>
 <html lang="TR_tr">
 
@@ -10,12 +8,11 @@ https://aduran.com.tr
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sr. Frontend Developer | Adem Duran</title>
 </head>
 
 <body>
     <!-- Başlık Start -->
-    <h1>Adem Duran</h1><br>
+    <h1>Sr. Frontend Developer | Adem Duran</h1><br>
     <!-- Başlık END -->
     <!-- Hakkımda Başlık Start -->
     <h2>Hakkımda</h2><br>
